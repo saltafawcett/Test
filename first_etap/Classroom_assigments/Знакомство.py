@@ -1,0 +1,7 @@
+print(str(input('Name:')))
+print(str(input('Last name:')))
+print(str(input('Education:')))
+print(str(input('level:')))
+print(str(input('department:')))
+print(str(input('IT experience')))
+print(str(input('wish money')))
